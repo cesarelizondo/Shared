@@ -1,0 +1,11 @@
+c:\users\cmeli\onedrive\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\cmeli\onedrive\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\cmeli\onedrive\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\cmeli\onedrive\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\cmeli\onedrive\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\cmeli\onedrive\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Interop.MSScriptControl.dll
+c:\users\cmeli\onedrive\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.ResolveComReference.cache
+c:\users\cmeli\onedrive\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\cmeli\onedrive\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\cmeli\OneDrive\Documents\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.frmExpressionEval.resources
+C:\Users\cmeli\OneDrive\Documents\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
